@@ -6,7 +6,7 @@
 
 *Building robust server-side solutions one line of code at a time* 🚀
 
-[![GitHub followers](https://img.shields.io/github/followers/venumadhavchary?label=Follow&style=social)](https://github.com/venumadhavchary)
+[![GitHub followers](https://img.shields.io/github/followers/venumadhavchary?label=Follow&style=social)](https://github.com/thecharydev)
 
 </div>
 
@@ -19,8 +19,7 @@
 class Developer {
     public $name = "Venu Madhav Chary";
     public $role = "Backend Developer";
-    public $experience = "3 years";
-    public $currentProject = "Anythingdeploy.in";
+    public $currentProject = "";
     public $location = "India";
     
     public function sayHi() {
@@ -29,7 +28,6 @@ class Developer {
 }
 ```
 
-- 💼 Currently working on **Anythingdeploy.in** - revolutionizing deployment solutions
 - 🎓 Student passionate about backend development and system architecture
 - 🔧 3 years of hands-on experience crafting scalable backend solutions
 - ⚡ Fun fact: My backend code runs smoother than my frontend designs! 😄
@@ -70,12 +68,7 @@ class Developer {
 
 ---
 
-## 💼 Current Focus
 
-### 🔧 Anythingdeploy.in
-orking on an innovative deployment platform that streamlines operations and enhances deployment experience. Leveraging modern backend technologies to create a scalable and efficient solution.
-
----
 
 ## 📊 GitHub Stats
 
